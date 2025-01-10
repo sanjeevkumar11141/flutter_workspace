@@ -1,0 +1,1 @@
+ C:\\kiwitech_workspace\\flutter_workspace\\bloc_statemanagement_demo\\.dart_tool\\flutter_build\\51f2d7ef8e5e36cf70dcada1bc65ccbf\\native_assets.yaml: 
